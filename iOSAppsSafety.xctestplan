@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "361E428A-FBC7-4083-A338-257331DE5646",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:iOSAppsSafety.xcodeproj",
+      "identifier" : "38A856A52D5AD57100D731C1",
+      "name" : "iOSAppsSafety"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:iOSAppsSafety.xcodeproj",
+        "identifier" : "382679EF2D5B458700B46094",
+        "name" : "iOSAppsSafetyTests"
+      }
+    }
+  ],
+  "version" : 1
+}

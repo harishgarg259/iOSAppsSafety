@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  iOSAppsSafety
+
+  Created by Harish Garg on 10/02/25.
+  
+*/
+
+//Video Screen
+"title" = "sécurité des applications";
+"scanButton" = "Démarrer l'analyse";
+"lastScan" = "Dernière analyse";
+"highRisk" = "Appareil à haut risque !";
+"appProtection" = "Protection des applications activée";
+"confirm" = "Confirmer!";
+"openURLAlert" = "« Êtes-vous sûr de vouloir ouvrir cette URL ? »";
+"Open" = "Ouvrir";
