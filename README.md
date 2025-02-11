@@ -20,5 +20,5 @@ MVVM Pattern
   5. Unit Test cases. (Success and Failure cases).
 
 # Screen
-![AppsListing](https://github.com/user-attachments/assets/5a5e87df-2519-4384-bd86-6465758818a4)
- 
+ ![AppsListing](https://github.com/user-attachments/assets/5e6f978e-a374-492c-a0e7-66ad46ee9e6b)
+
